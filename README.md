@@ -13,7 +13,7 @@ The slides are available in PDF at `slides.pdf`. They are available as separate 
 
 ## History
 
-2026-02-20 - Presented at [UK PHP Conference](https://phpconference.co.uk) - [https://joind.in/talk/98187]
+2026-02-20 - Presented at [UK PHP Conference](https://phpconference.co.uk) - [https://joind.in/talk/98187](https://join.d.in/talk/98187)
 
 ## License
 
