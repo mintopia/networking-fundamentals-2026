@@ -13,6 +13,7 @@ The slides are available in PDF at `slides.pdf`. They are available as separate 
 
 ## History
 
+2026-02-22 - Presented at [PHP Thames Valley](https://www.meetup.com/php-thames-valley/events/313142907/)
 2026-02-20 - Presented at [UK PHP Conference](https://phpconference.co.uk) - [https://joind.in/talk/98187](https://join.d.in/talk/98187)
 
 ## License
